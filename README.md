@@ -10,11 +10,9 @@
 - Applied FreeRTOS tasks, timers, mutex, and semaphores to manage sensor reading, motor control, error handling, and user input
 
 **Link 1:** Explaining the code, task, and how to code run
-
 https://www.youtube.com/watch?v=-upTZMyj46s&t=26s
 
 **Link 2:** Demonstrating simulation of a real-world model
-
 https://www.youtube.com/watch?v=W3IZxhGQHas
 
 ![z6939491493265_70137f3ca541402ffef847936837af61](https://github.com/user-attachments/assets/1c305458-037b-4bb6-864b-c6e59e6215cb)
