@@ -15,4 +15,6 @@ https://www.youtube.com/watch?v=-upTZMyj46s&t=26s
 **Link 2:** Demonstrating simulation of a real-world model
 https://www.youtube.com/watch?v=W3IZxhGQHas
 
-![z6939491493265_70137f3ca541402ffef847936837af61](https://github.com/user-attachments/assets/1c305458-037b-4bb6-864b-c6e59e6215cb)
+<p align="center">
+  <img width="500" height="500" alt="Physical Model" src="https://github.com/user-attachments/assets/1c305458-037b-4bb6-864b-c6e59e6215cb" />
+</p>
